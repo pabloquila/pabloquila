@@ -2,9 +2,7 @@
 
 * ⚡ **BEng Electrical & Electronic Engineer**
 
-* 🧠 **MSc Computer Science with Artificial Intelligence**
-
-* 📍 Manchester, UK
+* 💻 **MSc Computer Science with Artificial Intelligence**
 
 * 🚀 Interested in **Data Engineering, Artificial Intelligence, Robotics, and Industrial Automation**
 
@@ -78,8 +76,9 @@
 ### ⚡ Electrical & Industrial Engineering
 
 * ⚡ Electrical Engineering
+* 📐 Electrical Design (Industrial Systems & Infrastructure)
 * 🏭 Industrial Control Systems
-* 🔌 PLC Programming
+* 🔌 PLC Programming – Ladder Logic
 * 📐 AutoCAD / Electrical Design
 * 📡 Industrial Telemetry & Wireless Data Transmission
 * 🔋 Power Distribution Systems
