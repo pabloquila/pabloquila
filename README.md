@@ -105,8 +105,3 @@
 * ✔️ Scrum Fundamentals Certified (SFC)
 
 ---
-
-## 🌐 Connect with Me
-
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
-* 📧 Email: [your@email.com](mailto:your@email.com)
