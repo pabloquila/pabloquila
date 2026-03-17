@@ -1,4 +1,4 @@
-# Hi 👋 I'm Pablo
+# Hi, I'm Pablo 👋
 
 * ⚡ **BEng Electrical & Electronic Engineer**
 
